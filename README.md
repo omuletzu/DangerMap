@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # DangerMap
-=======
+
 # dangermap
 
 A new Flutter project.
