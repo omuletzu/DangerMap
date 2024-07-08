@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626833775425",
+    "project_id": "dangermap-e7371",
+    "storage_bucket": "dangermap-e7371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626833775425:android:3e487220e79005c30c5fc0",
+        "android_client_info": {
+          "package_name": "com.example.dangermap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbL2v_Io-Rx2VB7buOCVbpPSymBbCo2xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
