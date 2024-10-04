@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-# DangerMap
-=======
-# dangermap
+## DangerMap
+  DangerMap is an app made to display and notify users about dangers around them.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> fdc38f7 (commit)
+<img src="[https://github.com/omuletzu/ArtHub/assets/75565975/2394eeee-a060-4cfe-a7cb-9a2b95096da1](https://github.com/user-attachments/assets/055eadd9-0924-4951-8e1c-8e51759c4e33)" alt="app_logo" width="300">
