@@ -29,6 +29,19 @@
 - **Explore**: While moving on map you can press on dangers to check for more details.
 - **Add dangers**: As an authorized person you can add dangers, and select details for them, such as description, danger level and danger type.
 
+<img src="https://github.com/user-attachments/assets/772bd091-4807-4038-988b-7c1595bd488e" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/ee1a4a9e-ff81-4e81-a737-75349b2b9b48" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/df1e5257-7fe8-4421-b7bf-7ec8cf39a9a2" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/77299ae0-18b1-4fcf-94ea-ca3b55eeeee0" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/9fddf949-e297-47ef-8471-2442de3ff857" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/7e3f62e5-7841-469b-9527-cc3d3d4c6462" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/60034856-a6fe-4e6c-a340-d1a7a90c3475" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/ddfe70fc-f216-4688-a710-52feb7f085e2" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/041b4d9c-9291-41d4-a352-71e80796ac53" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/de373986-22d5-4146-9114-9a703fcbb2d0" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/7e90eb9b-2906-4f48-a765-58ebe9b4f558" alt="app_logo" width="175">
+
+
 ## Credits
 
 - Flutter, Google Maps API
