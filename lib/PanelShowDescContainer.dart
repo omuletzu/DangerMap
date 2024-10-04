@@ -43,6 +43,9 @@ class _PanelShowDescContainer extends State<PanelShowDescContainer>{
     if(widget.marker['description'].isEmpty){
       description = 'No description';
     }
+    else{
+      description = widget.marker['description'];
+    }
 
     return SingleChildScrollView(
       child: Container(
