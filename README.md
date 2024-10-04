@@ -40,6 +40,7 @@
 <img src="https://github.com/user-attachments/assets/041b4d9c-9291-41d4-a352-71e80796ac53" alt="app_logo" width="175">
 <img src="https://github.com/user-attachments/assets/de373986-22d5-4146-9114-9a703fcbb2d0" alt="app_logo" width="175">
 <img src="https://github.com/user-attachments/assets/7e90eb9b-2906-4f48-a765-58ebe9b4f558" alt="app_logo" width="175">
+<img src="https://github.com/user-attachments/assets/93c2ef9e-2874-4870-824f-dc69d1bc322d" alt="app_logo" width="200">
 
 
 ## Credits
